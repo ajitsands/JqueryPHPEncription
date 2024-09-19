@@ -1,2 +1,2 @@
 # Jquery PHP Encryption
-From Jquery Encript The Data and Read in PHP
+Encrypt Data Using Jquery and read Encrypt data in php using Decrypt 
